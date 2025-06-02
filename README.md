@@ -1,7 +1,3 @@
-Perfeito! Abaixo está a **documentação técnica clara e estruturada** da planilha de investimentos enviada, ideal para controle interno, apresentação ou integração com sistemas.
-
----
-
 # 📄 **Documentação Técnica - Planilha de Investimentos por Perfil**
 
 ## 🧾 1. Objetivo
