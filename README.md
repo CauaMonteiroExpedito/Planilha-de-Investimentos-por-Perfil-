@@ -1,5 +1,3 @@
-# 📄 **Documentação Técnica - Planilha de Investimentos por Perfil**
-
 ## 🧾 1. Objetivo
 
 A planilha tem como objetivo apresentar **sugestões de alocação percentual em Fundos Imobiliários (FIIs)** conforme o perfil de investidor (Conservador, Moderado ou Agressivo). Essa estrutura permite definir estratégias coerentes com o apetite de risco de cada investidor.
