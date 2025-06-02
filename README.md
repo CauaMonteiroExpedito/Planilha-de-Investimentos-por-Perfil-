@@ -43,12 +43,12 @@ A planilha tem como objetivo apresentar **sugestões de alocação percentual em
 * Combinação equilibrada entre **segurança e crescimento**.
 * Forte presença de TIJOLO e PAPEL (72%), com 28% distribuídos entre ativos mais voláteis.
 
-### 🔹 **Agressivo** *(atualizado)*
+### 🔹 **Agressivo**
 
 * Portfólio mais ousado, voltado ao **potencial de valorização** com risco maior.
 * Distribuição diversificada com maior alocação em Híbridos, FOF’s e Desenvolvimento (60%).
 
-| Tipo de FII     | % Agressivo Atualizado |
+| Tipo de FII     | % Agressivo            |
 | --------------- | ---------------------- |
 | PAPEL           | 20%                    |
 | TIJOLO          | 10%                    |
